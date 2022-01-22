@@ -1,0 +1,25 @@
+.photo {
+    position: absolute;
+
+    width: 150px;
+    height: 225px;
+}
+
+#workspace {
+    width: 100%;
+    height: 1000px;
+}
+
+.text {
+    text-align: center;
+}
+
+#pages {
+    text-align: center;
+}
+
+.buttons {
+    margin-left: 50%;
+    margin-right: 50%;
+
+    width: 100%;
